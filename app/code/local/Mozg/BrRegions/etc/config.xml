@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © 2016 Mozg. All rights reserved.
+ * See LICENSE.txt for license details.
+ */
+ -->
+<config>
+    <modules>
+        <Mozg_BrRegions>
+            <version>1.0.0</version>
+        </Mozg_BrRegions>
+    </modules>
+    <global>
+        <resources>
+            <mozg_br_regions_setup>
+                <setup>
+                    <module>Mozg_BrRegions</module>
+                </setup>
+            </mozg_br_regions_setup>
+        </resources>
+    </global>
+</config>
