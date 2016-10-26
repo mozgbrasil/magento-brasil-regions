@@ -8,7 +8,7 @@
 
 ## Sinopse
 
-Adiciona o suporte aos estados do Brasil ao Magento
+Adiciona o suporte aos 27 estados do Brasil ao Magento
 
 ## Instalação - Atualização - Desinstalação
 
