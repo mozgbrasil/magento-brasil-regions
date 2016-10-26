@@ -1,6 +1,6 @@
 {
     "name": "mozgbrasil/magento-brasil-regions",
-    "description": "Magento extension for adding all regions of Brasil Republic to customer address form.",
+    "description": "Adiciona o suporte aos 27 estados do Brasil ao Magento",
     "version": "1.0.0",
     "type": "magento-module",
     "keywords": ["cerebrum", "mozg", "brasil", "regions"],
