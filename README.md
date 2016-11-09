@@ -45,5 +45,7 @@ Esta biblioteca destina-se a ser instalado usando o [Composer][getcomposer].
 [![License](https://poser.pugx.org/mozgbrasil/magento-brasil-regions/license)](https://packagist.org/packages/mozgbrasil/magento-brasil-regions)
 [![Monthly Downloads](https://poser.pugx.org/mozgbrasil/magento-brasil-regions/d/monthly)](https://packagist.org/packages/mozgbrasil/magento-brasil-regions)
 [![Daily Downloads](https://poser.pugx.org/mozgbrasil/magento-brasil-regions/d/daily)](https://packagist.org/packages/mozgbrasil/magento-brasil-regions)
+[![Reference Status](https://www.versioneye.com/php/mozgbrasil:magento-brasil-regions/reference_badge.svg?style=flat-square)](https://www.versioneye.com/php/mozgbrasil:magento-brasil-regions/references)
+[![Dependency Status](https://www.versioneye.com/php/mozgbrasil:magento-brasil-regions/1.0.0/badge?style=flat-square)](https://www.versioneye.com/php/mozgbrasil:magento-brasil-regions/1.0.0)
 
 :cat2:
