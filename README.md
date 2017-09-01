@@ -3,6 +3,9 @@
 
 [getcomposer]: https://getcomposer.org/
 [uninstall-mods]: https://getcomposer.org/doc/03-cli.md#remove
+[artigo-composer]: http://mozg.com.br/ubuntu/composer
+[ioncube-loader]: http://www.ioncube.com/loaders.php
+[acordo]: http://mozg.com.br/acordo-licenca-usuario-final/
 
 # Mozg\BrRegions
 
