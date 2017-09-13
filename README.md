@@ -13,6 +13,14 @@
 
 Adiciona o suporte aos 27 estados do Brasil ao Magento
 
+## Testando na Heroku
+
+Gostaria de apresentar o aplicativo que disponibilizei para a plataforma Heroku
+
+Com apenas 1 clique, o aplicativo cria sua loja virtual usando a plataforma de comércio eletrônico Magento e instala os módulos da MOZG
+
+[https://github.com/mozgbrasil/heroku-magento#descrição](https://github.com/mozgbrasil/heroku-magento#descrição)
+
 ## Instalação - Atualização - Desinstalação
 
 --
