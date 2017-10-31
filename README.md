@@ -62,7 +62,7 @@ Certique se da presença do arquivo composer.json na raiz do seu projeto Magento
 	  "repositories": [
 	    {
 	      "type": "composer",
-	      "url": "https?://packages.firegento.com"
+	      "url": "https://packages.firegento.com"
 	    }
 	  ],
 	  "extra": {
@@ -80,7 +80,7 @@ Caso não exista o arquivo composer.json na raiz do projeto Magento, crie o mesm
 
     composer require mozgbrasil/magento-brasil-regions
 
--- 
+--
 
 ### Para atualizar o módulo execute o comando a seguir no terminal do seu servidor
 
