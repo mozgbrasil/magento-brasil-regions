@@ -84,13 +84,13 @@ Caso não exista o arquivo composer.json na raiz do projeto Magento, crie o mesm
 
 ### Para atualizar o módulo execute o comando a seguir no terminal do seu servidor
 
-    composer clear-cache && composer update
+    composer update
 
 --
 
 ### Para [desinstalar][uninstall-mods] o módulo execute o comando a seguir no terminal do seu servidor
 
-    composer remove mozgbrasil/magento-brasil-regions && composer clear-cache && composer update
+    composer remove mozgbrasil/magento-brasil-regions
 
 ## Perguntas mais frequentes "FAQ"
 
